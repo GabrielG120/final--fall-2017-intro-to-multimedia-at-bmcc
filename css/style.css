@@ -1,0 +1,156 @@
+@keyframes counter {
+   from {
+      background-image: url('../img/Final-1.jpg');
+   }
+
+   8% {
+      background-image: url('../img/Final-2.jpg');
+   }
+
+   11% {
+      background-image: url('../img/Final-3.jpg');
+   }
+
+   17% {
+      background-image: url('../img/Final-4.jpg');
+   }
+
+   21% {
+      background-image: url('../img/Final-5.jpg');
+   }
+
+   26% {
+     background-image: url('../img/Final-6.jpg');
+   }
+
+   30%{
+     background-image: url('../img/Final-7.jpg');
+   }
+
+   37%{
+     background-image: url('../img/Final-8.jpg');
+   }
+
+   42%{
+     background-image: url('../img/Final-9.jpg');
+   }
+
+   46%{
+     background-image: url('../img/Final-10.jpg');
+   }
+
+   48%{
+     background-image: url('../img/Final-11.jpg');
+   }
+
+   51%{
+     background-image: url('../img/Final-12.jpg');
+   }
+
+   54%{
+     background-image: url('../img/Final-13.jpg');
+   }
+
+   57%{
+     background-image: url('../img/Final-14.jpg');
+   }
+
+   59%{
+     background-image: url('../img/Final-15.jpg');
+   }
+
+   62%{
+     background-image: url('../img/Final-16.jpg');
+   }
+
+   66%{
+     background-image: url('../img/Final-17.jpg');
+   }
+
+   68%{
+     background-image: url('../img/Final-18.jpg');
+   }
+
+   70%{
+     background-image: url('../img/Final-19.jpg');
+   }
+
+   74%{
+     background-image: url('../img/Final-20.jpg');
+   }
+
+   77%{
+     background-image: url('../img/Final-21.jpg');
+   }
+
+   79%{
+     background-image: url('../img/Final-22.jpg');
+   }
+
+   81%{
+     background-image: url('../img/Final-23.jpg');
+   }
+
+   82%{
+     background-image: url('../img/Final-24.jpg');
+   }
+
+   83%{
+     background-image: url('../img/Final-25.jpg');
+   }
+
+   84%{
+     background-image: url('../img/Final-26.jpg');
+   }
+
+   85%{
+     background-image: url('../img/Final-27.jpg');
+   }
+
+   86%{
+     background-image: url('../img/Final-28.jpg');
+   }
+
+   87%{
+     background-image: url('../img/Final-29.jpg');
+   }
+
+   88%{
+     background-image: url('../img/Final-30.jpg');
+   }
+
+   89%{
+     background-image: url('../img/Final-31.jpg');
+   }
+
+   90%{
+     background-image: url('../img/Final-32.jpg');
+   }
+
+   92%{
+     background-image: url('../img/Final-33.jpg');
+   }
+
+   94%{
+     background-image: url('../img/Final-34.jpg');
+   }
+
+   96%{
+     background-image: url('../img/Final-35.jpg');
+   }
+
+   98%{
+     background-image: url('../img/Final-36.jpg');
+   }
+
+   100%{
+     background-image: url('../img/Final-37.jpg');
+   }
+}
+
+div {
+   animation: 10s linear 0s infinite alternate none running counter;
+   width: 95vw;
+   height: 145vh;
+   background-size: cover;
+}
